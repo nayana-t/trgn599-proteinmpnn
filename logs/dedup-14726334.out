@@ -1,0 +1,60 @@
+=== settings ===
+structures: 18
+checkpoint: v_48_002   temp: 0.1   seqs/target: 8   seed: 37
+----------------------------------------
+chain_id_jsonl is NOT loaded
+----------------------------------------
+fixed_positions_jsonl is NOT loaded
+----------------------------------------
+pssm_jsonl is NOT loaded
+----------------------------------------
+omit_AA_jsonl is NOT loaded
+----------------------------------------
+bias_AA_jsonl is NOT loaded
+----------------------------------------
+tied_positions_jsonl is NOT loaded
+----------------------------------------
+bias by residue dictionary is not loaded, or not provided
+----------------------------------------
+discarded {'bad_chars': 0, 'too_long': 0, 'bad_seq_length': 0}
+----------------------------------------
+Number of edges: 48
+Training noise level: 0.02A
+Generating sequences for: 7PC1
+8 sequences of length 72 generated in 2.3633 seconds
+Generating sequences for: 7PCA
+8 sequences of length 231 generated in 6.348 seconds
+Generating sequences for: 7PDI
+8 sequences of length 82 generated in 2.1145 seconds
+Generating sequences for: 7PF7
+8 sequences of length 178 generated in 4.8675 seconds
+Generating sequences for: 7PGE
+8 sequences of length 207 generated in 5.5502 seconds
+Generating sequences for: 7RP9
+8 sequences of length 244 generated in 6.7492 seconds
+Generating sequences for: 7RPE
+8 sequences of length 245 generated in 6.8022 seconds
+Generating sequences for: 7RPG
+8 sequences of length 245 generated in 6.8658 seconds
+Generating sequences for: 7RPZ
+8 sequences of length 169 generated in 4.6312 seconds
+Generating sequences for: 7RTS
+8 sequences of length 170 generated in 4.5637 seconds
+Generating sequences for: 7RTX
+8 sequences of length 133 generated in 3.5686 seconds
+Generating sequences for: 7RUH
+8 sequences of length 113 generated in 3.0252 seconds
+Generating sequences for: 7RUI
+8 sequences of length 127 generated in 3.4562 seconds
+Generating sequences for: 7RUW
+8 sequences of length 122 generated in 3.346 seconds
+Generating sequences for: 7V2G
+8 sequences of length 133 generated in 3.6336 seconds
+Generating sequences for: 7V4M
+8 sequences of length 168 generated in 4.5248 seconds
+Generating sequences for: 7V4S
+8 sequences of length 143 generated in 3.8215 seconds
+Generating sequences for: 7V5H
+8 sequences of length 200 generated in 5.2899 seconds
+=== result ===
+proteins: 18  sequences: 144  mean recovery: 0.5506

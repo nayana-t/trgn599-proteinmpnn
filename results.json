@@ -1,0 +1,126 @@
+{
+  "query_id" : "8449ffb1-c2b1-489b-8afc-7a3d06b8ee2a",
+  "result_type" : "entry",
+  "total_count" : 4754,
+  "result_set" : [ {
+    "identifier" : "7PC1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PCA",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RP9",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RPB",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RPD",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RPE",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RPF",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RPG",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PDI",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RPZ",
+    "score" : 1.0
+  }, {
+    "identifier" : "7V1U",
+    "score" : 1.0
+  }, {
+    "identifier" : "7V2G",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PF7",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PF8",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PF9",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PFB",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PFG",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PFH",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PFI",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PFJ",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PFK",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RT1",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RT2",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RT3",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RT5",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PGE",
+    "score" : 1.0
+  }, {
+    "identifier" : "7V4M",
+    "score" : 1.0
+  }, {
+    "identifier" : "7V4S",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RTS",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PGX",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PGY",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PGZ",
+    "score" : 1.0
+  }, {
+    "identifier" : "7PH0",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RTX",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RUH",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RUI",
+    "score" : 1.0
+  }, {
+    "identifier" : "7V5H",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RUW",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RUX",
+    "score" : 1.0
+  }, {
+    "identifier" : "7RUY",
+    "score" : 1.0
+  } ]
+}

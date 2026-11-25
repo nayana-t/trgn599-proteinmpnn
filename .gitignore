@@ -1,0 +1,4 @@
+ProteinMPNN/
+data/
+*.jsonl
+__pycache__/

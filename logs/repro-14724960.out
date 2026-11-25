@@ -1,0 +1,96 @@
+=== settings ===
+structures: 36
+checkpoint: v_48_002   temp: 0.1   seqs/target: 8   seed: 37
+----------------------------------------
+chain_id_jsonl is NOT loaded
+----------------------------------------
+fixed_positions_jsonl is NOT loaded
+----------------------------------------
+pssm_jsonl is NOT loaded
+----------------------------------------
+omit_AA_jsonl is NOT loaded
+----------------------------------------
+bias_AA_jsonl is NOT loaded
+----------------------------------------
+tied_positions_jsonl is NOT loaded
+----------------------------------------
+bias by residue dictionary is not loaded, or not provided
+----------------------------------------
+discarded {'bad_chars': 0, 'too_long': 0, 'bad_seq_length': 0}
+----------------------------------------
+Number of edges: 48
+Training noise level: 0.02A
+Generating sequences for: 7PC1
+8 sequences of length 72 generated in 2.7327 seconds
+Generating sequences for: 7PCA
+8 sequences of length 231 generated in 8.1435 seconds
+Generating sequences for: 7PDI
+8 sequences of length 82 generated in 3.021 seconds
+Generating sequences for: 7PF7
+8 sequences of length 178 generated in 7.3222 seconds
+Generating sequences for: 7PF8
+8 sequences of length 178 generated in 6.3601 seconds
+Generating sequences for: 7PF9
+8 sequences of length 178 generated in 6.2774 seconds
+Generating sequences for: 7PFB
+8 sequences of length 178 generated in 7.0889 seconds
+Generating sequences for: 7PFG
+8 sequences of length 178 generated in 6.9311 seconds
+Generating sequences for: 7PFH
+8 sequences of length 178 generated in 6.0017 seconds
+Generating sequences for: 7PFI
+8 sequences of length 178 generated in 6.79 seconds
+Generating sequences for: 7PFJ
+8 sequences of length 178 generated in 6.9706 seconds
+Generating sequences for: 7PFK
+8 sequences of length 178 generated in 6.1035 seconds
+Generating sequences for: 7PGE
+8 sequences of length 207 generated in 7.7853 seconds
+Generating sequences for: 7RP9
+8 sequences of length 244 generated in 9.3012 seconds
+Generating sequences for: 7RPB
+8 sequences of length 244 generated in 9.345 seconds
+Generating sequences for: 7RPD
+8 sequences of length 244 generated in 9.4932 seconds
+Generating sequences for: 7RPE
+8 sequences of length 245 generated in 9.025 seconds
+Generating sequences for: 7RPF
+8 sequences of length 245 generated in 9.5928 seconds
+Generating sequences for: 7RPG
+8 sequences of length 245 generated in 8.997 seconds
+Generating sequences for: 7RPZ
+8 sequences of length 169 generated in 6.4225 seconds
+Generating sequences for: 7RT1
+8 sequences of length 169 generated in 6.3444 seconds
+Generating sequences for: 7RT2
+8 sequences of length 169 generated in 5.9456 seconds
+Generating sequences for: 7RT3
+8 sequences of length 168 generated in 6.605 seconds
+Generating sequences for: 7RT5
+8 sequences of length 169 generated in 6.4557 seconds
+Generating sequences for: 7RTS
+8 sequences of length 170 generated in 5.7967 seconds
+Generating sequences for: 7RTX
+8 sequences of length 133 generated in 5.1551 seconds
+Generating sequences for: 7RUH
+8 sequences of length 113 generated in 4.3104 seconds
+Generating sequences for: 7RUI
+8 sequences of length 127 generated in 4.751 seconds
+Generating sequences for: 7RUW
+8 sequences of length 122 generated in 4.2239 seconds
+Generating sequences for: 7RUX
+8 sequences of length 122 generated in 4.281 seconds
+Generating sequences for: 7RUY
+8 sequences of length 122 generated in 4.9385 seconds
+Generating sequences for: 7V1U
+8 sequences of length 131 generated in 5.02 seconds
+Generating sequences for: 7V2G
+8 sequences of length 133 generated in 4.6842 seconds
+Generating sequences for: 7V4M
+8 sequences of length 168 generated in 6.5773 seconds
+Generating sequences for: 7V4S
+8 sequences of length 143 generated in 5.2871 seconds
+Generating sequences for: 7V5H
+8 sequences of length 200 generated in 6.8095 seconds
+=== result ===
+proteins: 36  sequences: 288  mean recovery: 0.5615

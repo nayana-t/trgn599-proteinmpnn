@@ -1,0 +1,42 @@
+----------------------------------------
+chain_id_jsonl is NOT loaded
+----------------------------------------
+fixed_positions_jsonl is NOT loaded
+----------------------------------------
+pssm_jsonl is NOT loaded
+----------------------------------------
+omit_AA_jsonl is NOT loaded
+----------------------------------------
+bias_AA_jsonl is NOT loaded
+----------------------------------------
+tied_positions_jsonl is NOT loaded
+----------------------------------------
+bias by residue dictionary is not loaded, or not provided
+----------------------------------------
+discarded {'bad_chars': 0, 'too_long': 0, 'bad_seq_length': 0}
+----------------------------------------
+Number of edges: 48
+Training noise level: 0.02A
+Generating sequences for: 5L33
+8 sequences of length 106 generated in 3.68 seconds
+Generating sequences for: 6MRR
+8 sequences of length 68 generated in 6.2456 seconds
+=== recovery values ===
+outputs/seqs/5L33.fa:>5L33, score=1.4184, global_score=1.4184, fixed_chains=[], designed_chains=['A'], model_name=v_48_002, git_hash=8907e6671bfbfc92303b5f79c4b5e6ce47cdef57, seed=37
+outputs/seqs/5L33.fa:>T=0.1, sample=1, score=0.7495, global_score=0.7495, seq_recovery=0.4528
+outputs/seqs/5L33.fa:>T=0.1, sample=2, score=0.7134, global_score=0.7134, seq_recovery=0.5283
+outputs/seqs/5L33.fa:>T=0.1, sample=3, score=0.7127, global_score=0.7127, seq_recovery=0.5283
+outputs/seqs/5L33.fa:>T=0.1, sample=4, score=0.7400, global_score=0.7400, seq_recovery=0.4906
+outputs/seqs/5L33.fa:>T=0.1, sample=5, score=0.7470, global_score=0.7470, seq_recovery=0.5189
+outputs/seqs/5L33.fa:>T=0.1, sample=6, score=0.7759, global_score=0.7759, seq_recovery=0.4717
+outputs/seqs/5L33.fa:>T=0.1, sample=7, score=0.7091, global_score=0.7091, seq_recovery=0.5283
+outputs/seqs/5L33.fa:>T=0.1, sample=8, score=0.7587, global_score=0.7587, seq_recovery=0.5000
+outputs/seqs/6MRR.fa:>6MRR, score=1.1517, global_score=1.1517, fixed_chains=[], designed_chains=['A'], model_name=v_48_002, git_hash=8907e6671bfbfc92303b5f79c4b5e6ce47cdef57, seed=37
+outputs/seqs/6MRR.fa:>T=0.1, sample=1, score=0.7314, global_score=0.7314, seq_recovery=0.5882
+outputs/seqs/6MRR.fa:>T=0.1, sample=2, score=0.7527, global_score=0.7527, seq_recovery=0.5882
+outputs/seqs/6MRR.fa:>T=0.1, sample=3, score=0.7181, global_score=0.7181, seq_recovery=0.5882
+outputs/seqs/6MRR.fa:>T=0.1, sample=4, score=0.6860, global_score=0.6860, seq_recovery=0.6029
+outputs/seqs/6MRR.fa:>T=0.1, sample=5, score=0.8010, global_score=0.8010, seq_recovery=0.6029
+outputs/seqs/6MRR.fa:>T=0.1, sample=6, score=0.7786, global_score=0.7786, seq_recovery=0.5882
+outputs/seqs/6MRR.fa:>T=0.1, sample=7, score=0.7205, global_score=0.7205, seq_recovery=0.6324
+outputs/seqs/6MRR.fa:>T=0.1, sample=8, score=0.7246, global_score=0.7246, seq_recovery=0.6176

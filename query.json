@@ -1,0 +1,20 @@
+{
+  "query": {"type": "group", "logical_operator": "and", "nodes": [
+    {"type": "terminal", "service": "text", "parameters": {
+      "attribute": "rcsb_accession_info.deposit_date", "operator": "greater", "value": "2021-08-02"}},
+    {"type": "terminal", "service": "text", "parameters": {
+      "attribute": "exptl.method", "operator": "exact_match", "value": "X-RAY DIFFRACTION"}},
+    {"type": "terminal", "service": "text", "parameters": {
+      "attribute": "rcsb_entry_info.resolution_combined", "operator": "less_or_equal", "value": 2.0}},
+    {"type": "terminal", "service": "text", "parameters": {
+      "attribute": "rcsb_entry_info.deposited_polymer_entity_instance_count", "operator": "equals", "value": 1}},
+    {"type": "terminal", "service": "text", "parameters": {
+      "attribute": "rcsb_entry_info.deposited_polymer_monomer_count", "operator": "range",
+      "value": {"from": 50, "to": 250}}}
+  ]},
+  "return_type": "entry",
+  "request_options": {
+    "paginate": {"start": 0, "rows": 40},
+    "sort": [{"sort_by": "rcsb_accession_info.deposit_date", "direction": "asc"}]
+  }
+}
